@@ -7,7 +7,8 @@
  * @brief      High-level functions
  *
  */
-
+#define BLYNK_TEMPLATE_ID "TMPL3si5erG-F"
+#define BLYNK_TEMPLATE_NAME "esp8266 water level"
 #ifndef BlynkApi_h
 #define BlynkApi_h
 
